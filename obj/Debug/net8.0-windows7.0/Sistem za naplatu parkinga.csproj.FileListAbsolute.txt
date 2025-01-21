@@ -1,0 +1,50 @@
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.exe
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.deps.json
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.runtimeconfig.json
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.pdb
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\EntityFramework.SqlServer.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\EntityFramework.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\QRCoder.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\System.Data.SQLite.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\System.Data.SQLite.EF6.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.csproj.AssemblyReference.cache
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.AdminFunction.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.AdminWindow.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.ChangePassword.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.CreateAccount.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.DeleteAccount.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.MainStation.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.NewUserSubscription.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.OperaterFunction.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.ParkingEntry.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.PaymentForm.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.PriceChange.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.MainWindow.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.Statistics.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.SubscriptionForm.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.UserWindow.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.csproj.GenerateResource.cache
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.AssemblyInfoInputs.cache
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.AssemblyInfo.cs
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.csproj.CoreCompileInputs.cache
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.sourcelink.json
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem z.FF3001FA.Up2Date
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\refint\Sistem za naplatu parkinga.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.pdb
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem za naplatu parkinga.genruntimeconfig.cache
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\ref\Sistem za naplatu parkinga.dll
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.SubscriptionPayment.resources
+C:\Users\Trtox\Desktop\Sistem za naplatu parkinga\obj\Debug\net8.0-windows7.0\Sistem_za_naplatu_parkinga.ReportForm.resources
